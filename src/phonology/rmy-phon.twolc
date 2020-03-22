@@ -1,0 +1,50 @@
+!! =================================== !
+!! The Kalderash morphophonological/twolc rules file !
+!! =================================== !
+
+Alphabet
+ a b c d e f g h i j k l m n o p q r s t u v w x y z ä ö å
+ á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý č ć ř š ś ž ź 
+
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Ä Ö Å
+ Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Č Ć Ř Š Ś Ž Ź  
+
+ %>:0 ;
+
+Sets
+
+ Vow = a e i o u y æ ø å 
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;
+ Cns = b c č ć d f g h j k l m n p q r ř s š ś t v w x z ž ;
+ 
+Rules
+
+"Deleting stem-final vowel before vowel-initial suffixes"
+Vx:0 <=> Cns _ %>: Vow ;
+     where Vx in ( ó o i ) ;
+
+!!€ rakló>és
+!!€ rakl00és
+
+"l stem assimilation"
+l:j <=> Vow _ %>: j ;
+
+!!€ mol>já
+!!€ moj0já
+
+"i stem assimilation"
+i:0 <=> _ %>: [í|i|j] ;
+
+!!€ řomni>já
+!!€ řomn00já
+
+"oblique suffix assimilation"
+Cx:Cy <=> n %>: _ ;
+      where Cx in ( k s t )
+      	    Cy in ( g c d )
+	    matched ;
+
+!!€ phral>én>kê
+!!€ phral0én0gê
+
+

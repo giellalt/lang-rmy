@@ -1,0 +1,11 @@
+!! Adjective inflection
+!  --------------------
+!! The Vlax Romani language adjectives compare.
+
+LEXICON Comparisons
++A+Pos: # ;
++A+Comp:er # ;
++A+Superl:est # ;
+
+! vim: set ft=xfst-lexc:
+

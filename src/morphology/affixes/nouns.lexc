@@ -1,0 +1,39 @@
+!! Noun inflection
+!  ---------------
+!! The Vlax Romani language nouns inflect in cases.
+
+LEXICON m1
++N+Sg+Nom: # ;
++N+Sg+Acc:%>és # ;
++N+Sg: obl ;
++N+Pl+Nom:%>é # ;
++N+Pl+Acc:%>é # ;
++N+Pl:%>é obl ;
+
+LEXICON m2
++N+Sg+Nom: # ;
++N+Sg+Acc:%>és # ;
++N+Sg: obl ;
++N+Pl+Nom:%>é # ;
++N+Pl+Acc:%>é # ;
++N+Pl:%>é obl ;
+
+
+LEXICON f1
++N+Sg+Nom: # ;
++N+Sg+Acc:%>já # ;
++N+Sg: obl ;
++N+Pl+Nom:%>já # ;
++N+Pl+Acc:%>ján # ;
++N+Pl:%>ján obl ;
+
+LEXICON obl
++Dat:%>kê # ;
++Ins:%>sa # ;
++Abl:%>tar # ;
++Loc:%>te # ;
+
+
+
+! vim: set ft=xfst-lexc:
+

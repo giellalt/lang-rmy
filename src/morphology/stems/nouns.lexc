@@ -1,0 +1,46 @@
+!! Nouns
+!  -----
+!! Nouns in the Vlax Romani language are things.
+
+LEXICON Nouns
+bar m1 "Garten" ;
+bař m1 "Stein" ;
+řom m1 "Mann" ;
+kêtana m2 "Soldat" ;
+khêr m1 "Haus" ;
+šîl m1 "Kälte" ;
+phral m1 "Bruder" ;
+mačka m2 "Katze" ;
+skafidi m2 "Tisch" ;
+phurt m1 "Brücke" ;
+ivend m1 "Winter" ;
+bîršind m1 "Regen" ;
+šing m1 "Horn" ;
+vast m1 "Hand" ;
+vušt m1 "Lippe" ;
+kašt m1 "Holz" ;
+baxt m1 "Glück" ;
+raklo m2 "Bursch" ;
+papo m2 "Großvater" ;
+ampêráto m2 "Herrscher" ;
+gázda m2 "Hausherr" ;
+manúš m1 "Mensch" ;
+
+mol f1 "Wein" ;
+řomni f1 "Frau" ;
+
+diplomo m2 "prov" ;
+sastipe m2 "vård" ;
+skola m2 "skola" ;
+libroskola m2 "friskola" ;
+sičarimos m1 "ämne" ;
+universiteto m2 "universitet" ;
+kontora m2 "kontor" ;
+niamo m2 "anhørig" ;
+rensia m2 "arv" ;
+xoxaimos m1 "bedrægeri" ;
+djes m1 "dag" ;
+vorba m2 "ord" ;
+
+
+! vim: set ft=xfst-lexc:
