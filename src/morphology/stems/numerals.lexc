@@ -1,0 +1,8 @@
+!! Numerals
+!  --------
+!! Numerals in the Vlax Romani language are numbers.
+
+LEXICON Numerals
+numeral    #   ;
+
+! vim: set ft=xfst-lexc:
