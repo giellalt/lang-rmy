@@ -4,8 +4,8 @@
 !!! Dynamic documentation
 
 * [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/morphology/stems/]   
-  / [affixes|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/morphology/affixes/] 
+* Source files: [stems|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/fst/stems/]   
+  / [affixes|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/fst/affixes/] 
   / [syntax|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/syntax] 
   / [twolc|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/phonology/rmy-phon.twolc]   
   / [yaml|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/test/src/gt-norm-yamls/]
@@ -14,7 +14,7 @@
 
 !!! Grammatical issues
 
-* [The tags that are in use|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/morphology/root.lexc]   
+* [The tags that are in use|https://victorio.uit.no/langtech/trunk/startup-langs/rmy/src/fst/root.lexc]   
 * [A list of morphological tags|../common/MorphologicalTags.html]
 
 !!!Using the analysers
