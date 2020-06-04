@@ -1,0 +1,9 @@
+name = "Vlax Romani"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.rmy"
+
+[windows]
+system_product_code = "999163E6-A967-419B-9649-005C6EC9A49B"
+msoffice_product_code = "88B79EE3-8CD5-4FD4-B4AC-B45DFC143F52"
