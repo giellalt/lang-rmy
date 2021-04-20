@@ -1,6 +1,10 @@
 The Kalderash Romani morphology and tools
 =========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
+[![Build Status](https://github.com/giellalt/lang-rmy/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-rmy)](https://raw.githubusercontent.com/giellalt/lang-rmy/develop/LICENSE)
+
 NOTE!! The ISO 639-3 code rmy is used for Vlax Romani (Glottolog:
 vlax1238). The files in this folder do not model Vlax Romani, though,
 but one of its subdialects, Kalderash (Glottolog: kald1238).
@@ -15,10 +19,6 @@ morphology and dictionary. The data and implementation are licenced
 under \_\_LICENCE\_\_ licence also detailed in the LICENCE file of this
 directory. The authors named in the AUTHORS file are available to grant
 other licencing choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
-[![Build Status](https://github.com/giellalt/lang-rmy/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-rmy)](https://raw.githubusercontent.com/giellalt/lang-rmy/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-rmy)
 for the Vlax Romani language by using the [Divvun Installer](http://divvun.no)
