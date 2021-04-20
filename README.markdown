@@ -16,8 +16,12 @@ under \_\_LICENCE\_\_ licence also detailed in the LICENCE file of this
 directory. The authors named in the AUTHORS file are available to grant
 other licencing choices.
 
-Installation and compilation, and a short note on usage, is documented
-in the file INSTALL.
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
+[![Build Status](https://github.com/giellalt/lang-rmy/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-rmy)](https://raw.githubusercontent.com/giellalt/lang-rmy/develop/LICENSE)
+
+Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-rmy)
+for the Vlax Romani language by using the [Divvun Installer](http://divvun.no)
 
 Documentation can be found here:
 
