@@ -1,3 +1,64 @@
+Noun inflection
+The Vlax Romani language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+Proper noun inflection
+The Vlax Romani language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Vlax Romani language adjectives compare.
+
+
+
+Verb inflection
+The Vlax Romani language verbs inflect in persons.
+
+
+
+=================================== !
+The Kalderash morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *rakló>és*
+* *rakl00és*
+
+
+* *mol>já*
+* *moj0já*
+
+
+* *řomni>já*
+* *řomn00já*
+
+
+* *phral>én>kê*
+* *phral0én0gê*
+
+
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF KALDERASH
 
@@ -78,6 +139,88 @@ given the proper use of these flags.
 The word forms in Romany language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
+
+Nouns
+Nouns in the Vlax Romani language are things.
+
+
+
+
+
+Prefixes
+Prefixes in the Vlax Romani language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Vlax Romani language are references to things.
+
+
+Adjectives
+Adjectives in the Vlax Romani language describe things.
+
+
+Verbs
+Verbs in the Vlax Romani language are actions.
+
+
+Numerals
+Numerals in the Vlax Romani language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
