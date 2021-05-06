@@ -1,35 +1,29 @@
-Noun inflection
-The Vlax Romani language nouns inflect in cases.
+Nouns
+Nouns in the Vlax Romani language are things.
 
 
 
 
 
+Numerals
+Numerals in the Vlax Romani language are numbers.
+
+
+Verbs
+Verbs in the Vlax Romani language are actions.
+
+
+Prefixes
+Prefixes in the Vlax Romani language are bound to beginning of other words.
 
 
 
-
-Proper noun inflection
-The Vlax Romani language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Adjectives
+Adjectives in the Vlax Romani language describe things.
 
 
-
-
-# Symbol affixes
-
-
-
-
-
-Adjective inflection
-The Vlax Romani language adjectives compare.
-
-
-
-Verb inflection
-The Vlax Romani language verbs inflect in persons.
-
+Pronouns
+Pronouns in the Vlax Romani language are references to things.
 
 
 =================================== !
@@ -57,6 +51,40 @@ The Kalderash morphophonological/twolc rules file !
 
 * *phral>én>kê*
 * *phral0én0gê*
+
+
+
+# Symbol affixes
+
+
+
+
+
+Noun inflection
+The Vlax Romani language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+Proper noun inflection
+The Vlax Romani language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+Verb inflection
+The Vlax Romani language verbs inflect in persons.
+
+
+
+Adjective inflection
+The Vlax Romani language adjectives compare.
+
 
 
 
@@ -140,32 +168,20 @@ The word forms in Romany language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 
-Nouns
-Nouns in the Vlax Romani language are things.
 
 
 
+We describe here how abbreviations are in Vlax Romani are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Prefixes
-Prefixes in the Vlax Romani language are bound to beginning of other words.
-
-
-
-Pronouns
-Pronouns in the Vlax Romani language are references to things.
-
-
-Adjectives
-Adjectives in the Vlax Romani language describe things.
-
-
-Verbs
-Verbs in the Vlax Romani language are actions.
-
-
-Numerals
-Numerals in the Vlax Romani language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -221,20 +237,4 @@ Numerals in the Vlax Romani language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Vlax Romani are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
