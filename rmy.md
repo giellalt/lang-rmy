@@ -640,8 +640,10 @@ The Vlax Romani language nouns inflect in cases.
 
 
 =================================== !
-The Kalderash morphophonological/twolc rules file !
+The Kalderash morphophonological/twolc rules file 
 =================================== !
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-rmy/blob/main/src/fst/phonology.twolc) 
 
 
 
