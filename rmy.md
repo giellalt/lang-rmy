@@ -605,32 +605,38 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Vlax Romani language are things.
+Verb inflection
+The Vlax Romani language verbs inflect in persons.
+
+
+
+Proper noun inflection
+The Vlax Romani language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+Adjective inflection
+The Vlax Romani language adjectives compare.
+
+
+
+Noun inflection
+The Vlax Romani language nouns inflect in cases.
 
 
 
 
 
-Numerals
-Numerals in the Vlax Romani language are numbers.
-
-
-Verbs
-Verbs in the Vlax Romani language are actions.
-
-
-Prefixes
-Prefixes in the Vlax Romani language are bound to beginning of other words.
 
 
 
-Adjectives
-Adjectives in the Vlax Romani language describe things.
 
 
-Pronouns
-Pronouns in the Vlax Romani language are references to things.
+# Symbol affixes
+
+
+
 
 
 =================================== !
@@ -660,37 +666,31 @@ The Kalderash morphophonological/twolc rules file !
 * *phral0én0gê*
 
 
-
-# Symbol affixes
-
-
+Verbs
+Verbs in the Vlax Romani language are actions.
 
 
-
-Noun inflection
-The Vlax Romani language nouns inflect in cases.
-
+Pronouns
+Pronouns in the Vlax Romani language are references to things.
 
 
+Numerals
+Numerals in the Vlax Romani language are numbers.
 
 
+Adjectives
+Adjectives in the Vlax Romani language describe things.
 
 
-
-
-Proper noun inflection
-The Vlax Romani language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Prefixes
+Prefixes in the Vlax Romani language are bound to beginning of other words.
 
 
 
-Verb inflection
-The Vlax Romani language verbs inflect in persons.
+Nouns
+Nouns in the Vlax Romani language are things.
 
 
-
-Adjective inflection
-The Vlax Romani language adjectives compare.
 
 
 
@@ -778,22 +778,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Vlax Romani are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -844,6 +828,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Vlax Romani are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
