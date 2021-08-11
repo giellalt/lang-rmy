@@ -3,7 +3,7 @@ The Kalderash Romani morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
 [![Build Status](https://github.com/giellalt/lang-rmy/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-rmy)](https://raw.githubusercontent.com/giellalt/lang-rmy/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/blob/main/LICENSE)
 
 NOTE!! The ISO 639-3 code rmy is used for Vlax Romani (Glottolog:
 vlax1238). The files in this folder do not model Vlax Romani, though,
