@@ -16,7 +16,7 @@ parent language.
 
 This directory contains source files for the Kalderash Romani language
 morphology and dictionary. The data and implementation are licenced
-under the __LICENCE__ licence, also detailed in the
+under the __LICENSE__ licence, also detailed in the
 [LICENSE](https://github.com/giellalt/lang-rmy/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
