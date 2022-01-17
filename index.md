@@ -18,7 +18,7 @@ There are several Romani languages, and the language code situation is somewhat
 chaotic. Here is an overview.
 
 
-|   Languare | Synonyms | ISO<br/>639-3 | Glottolog
+|   Languare | Synonyms | ISO 639-3 | Glottolog
 | --- | --- | --- | --- 
 |  Romani kale | Finnish Romani, Kaale | rmf | kalo1256
 |  Tavringer Romani | resanderomska | rmu |  tavr1235
