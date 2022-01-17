@@ -5,6 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
 [![Build status](https://github.com/giellalt/lang-rmy/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
 
+There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](romani-languages).
+
 These pages document the work on **Kalderash Romani language model**, one of the **Vlax Romani** languages.
 It only contain a couple of nouns and a morphology sketch. The source was:
 
@@ -13,22 +15,6 @@ It only contain a couple of nouns and a morphology sketch. The source was:
 Note that the ISO code of this catalogue is **rmy**, the code for Vlax
 Romani. Strictly speaking it is the wrong code, but we use it while
 Kalderash is waiting for its own code.
-
-There are several Romani languages, and the language code situation is somewhat
-chaotic. Here is an overview.
-
-
-|   Languare | Synonyms | ISO 639-3 | Glottolog
-| --- | --- | --- | --- 
-|  Romani kale | Finnish Romani, Kaale | rmf | kalo1256
-|  Tavringer Romani | resanderomska | rmu |  tavr1235
-|  Traveller Norwegian | romani sakripa | rmg | trav1236
-|  Romani arli | arlikane | rmn | arli1238
-|  Romani kalderaš | kelderašicko | (rmy) | kald1238
-|  Romani lovara | lovari, lovaricko | (rmy) | lova1240
-
-The structure of the source file catalogue is the same for all
-the languages, it is documented [here](/infra/infraremake/NewinfraCatalogues.html).
 
 # Online tools
 
