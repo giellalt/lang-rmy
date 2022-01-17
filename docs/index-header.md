@@ -13,18 +13,10 @@ It only contain a couple of nouns and a morphology sketch. The source was:
 > Mozes Heinschink & Petra Cech (2011): *Sprachbeschreibung Romani – Variante Kaldêrašicko*
 
 Note that the ISO code of this catalogue is **rmy**, the code for Vlax
-Romani. Strictly speaking it is the wrong code, but we use it while
-Kalderash is waiting for its own code.
+Romani. Strictly speaking the code is misleading, but we use it while
+waiting for clarification on Romani standardisation.
 
-# Online tools
 
-* Generation of: [paradigms](http://giellatekno.uit.no/cgi/p-rmy.fi.html)
-
-# Using the analysers
-
-These pages document how to build the parsers. If you want to know
-how to use them on the command line, read the
-[How to use the morphological parsers](/tools/docu-sme-manual.html) page.
 
 # Project documentation
 
