@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
 [![Build status](https://github.com/giellalt/lang-rmy/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
 
-There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](romani-languages).
+There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](romani-languages.html).
 
 These pages document the work on **Kalderash Romani language model**, one of the **Vlax Romani** languages.
 It only contain a couple of nouns and a morphology sketch. The source was:
