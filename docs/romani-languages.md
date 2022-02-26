@@ -17,7 +17,6 @@ The table below gives language names, ISO and Glottolog codes (with link to Glot
 | Polish Romani       |  - | Polsk romska | no  | rml | [poli1261](https://glottolog.org/resource/languoid/id/poli1261) | [Sweden](https://www.isof.se/sidor-pa-nationella-minoritetssprak/romani-chib/polsko-romanes)
 | Traveller Norwegian | romani rakkripa | Romani| [Alpha](https://giellalt.github.io/lang-rmg/) | rmg | [trav1236](https://glottolog.org/resource/languoid/id/trav1236) | [Norway](https://www.sprakradet.no/Spraka-vare/Minoritetssprak/romani-og-romanes/)
 
-Starting 2017, the Swedish Language Council has initiated a project aiming at revising the orthographies of Romani languages in Swedan, cf. [this orientation](https://www.isof.se/lar-dig-mer/kunskapsbanker/lar-dig-mer-om-nationella-minoritetssprak/romska/det-romska-spraket). At present, all languages marked **S** in the table above have their own distinct orthographies, but one possible outcome of the Swedish project  is thus that several of them may be unified. 
+Starting 2017, the Swedish Language Council has initiated a project aiming at revising the orthographies of Romani languages in Swedan, cf. [this orientation](https://www.isof.se/lar-dig-mer/kunskapsbanker/lar-dig-mer-om-nationella-minoritetssprak/romska/det-romska-spraket). At present (spring 2022), all languages marked **Sweden** in the table above have their own distinct orthographies, but one possible outcome of the Swedish project  is thus that several of them may be unified. 
 
 
-Suomen romani, 
