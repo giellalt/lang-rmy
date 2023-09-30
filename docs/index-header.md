@@ -1,7 +1,7 @@
 # Kalderash (Vlax Romani) documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmy%2Fgh-pages%2Flemmacount.json)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmy%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-rmy/main/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
