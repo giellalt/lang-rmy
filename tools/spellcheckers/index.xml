@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale>rmy</locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Vlax Romani</title>
+    <title>Vlax Romani</title>
     <description>This is an fst-based speller for Vlax Romani. It is based
     on the normative subset of the morphological analyser for Vlax Romani.
     The source code can be found at:
