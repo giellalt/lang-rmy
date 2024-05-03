@@ -8,10 +8,13 @@ The Kalderash Romani morphology and tools
 [![Doc Build Status](https://github.com/giellalt/lang-rmy/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-rmy/actions)
 [![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-rmy/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-rmy/main/latest)
 
-Download nightly / CI/CD zhfst files for testing:
+Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
+
 [![Windows](https://img.shields.io/badge/download%40latest-Windows--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-rmy?platform=windows&channel=nightly)
 [![MacOS](https://img.shields.io/badge/download%40latest-macOS--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-rmy?platform=macos&channel=nightly)
 [![Mobile](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-rmy?platform=mobile&channel=nightly)
+
+__NB!!__ Note that the nightly / CI/CD installation packages are not tested for language quality, and might contain regressions and errors.
 
 NOTE!! The ISO 639-3 code rmy is used for Vlax Romani (Glottolog:
 vlax1238). The files in this folder do not model Vlax Romani, though,
