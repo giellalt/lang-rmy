@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-rmy)](https://github.com/giellalt/lang-rmy/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-rmy?label=CI)](https://builds.giellalt.org/pipelines/lang-rmy/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/vlax1238)
 
 There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](romani-languages.html).
 
